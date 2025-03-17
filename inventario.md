@@ -6,5 +6,6 @@
 - schede madri
 
 ## periferiche
+- tastiere
 
 Elettronica Padovana
