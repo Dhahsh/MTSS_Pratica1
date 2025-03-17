@@ -1,5 +1,5 @@
 2111035	Qiu Zhong Xing
 2101053	Contesso Riccardo
 
-processori
-schede madri
+B650 AORUS ELITE AX V2
+B650 AORUS ELITE AX V1.1.2
